@@ -1,10 +1,8 @@
-package com.notzed.testingapp;
+package com.notzed.testingApp;
 
 import lombok.extern.slf4j.Slf4j;
 import org.assertj.core.api.Assertions;
-import org.assertj.core.data.Offset;
 import org.junit.jupiter.api.*;
-import org.assertj.core.*;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 

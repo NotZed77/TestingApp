@@ -1,4 +1,4 @@
-package com.notzed.testingapp;
+package com.notzed.testingApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
